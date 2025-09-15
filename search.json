@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Go to https://code.earthengine.google.com/register and Login with your Google Account\n\n\n\n\n\n\n\n\n\nFigure 1: Accept the User Agreement and confirm\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 2: Click on “Create new project”\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 3: Choose a project name (e.g. adls-datalab). Choosing an Organisation is not necessary.\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: Choose See if you are eligible for non-commercial use\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 5: Select Public or private academic institution as the organisation type\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 6: Enter ZHAW as the name of the institution, Scientific research as the use and How has the forest in lenk recovered as the research question and Regional as the geographic scope of the project\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 7: Choose No to the question on whether you’ve previously published work on this topic\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 8: On the question “Will you use Earth Engine for any of the following?” you can choose Scientific reserach as well as Forestry from the drop down\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 9: In the popup concerning API, choose Enable\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 10: You should now see that your project is registered for non commercial use\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 11: Now, you can visit https://code.earthengine.google.com\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 12: Here, choose the project you created in the previous steps\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 13: Once you see the the welcome popup, you’re done!"
+  },
+  {
+    "objectID": "index.html#step-1",
+    "href": "index.html#step-1",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Go to https://code.earthengine.google.com/register and Login with your Google Account"
+  },
+  {
+    "objectID": "index.html#step-2",
+    "href": "index.html#step-2",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 1: Accept the User Agreement and confirm"
+  },
+  {
+    "objectID": "index.html#step-3",
+    "href": "index.html#step-3",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 2: Click on “Create new project”"
+  },
+  {
+    "objectID": "index.html#step-4",
+    "href": "index.html#step-4",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 3: Choose a project name (e.g. adls-datalab). Choosing an Organisation is not necessary."
+  },
+  {
+    "objectID": "index.html#step-5",
+    "href": "index.html#step-5",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 4: Choose See if you are eligible for non-commercial use"
+  },
+  {
+    "objectID": "index.html#step-6",
+    "href": "index.html#step-6",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 5: Select Public or private academic institution as the organisation type"
+  },
+  {
+    "objectID": "index.html#step-7",
+    "href": "index.html#step-7",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 6: Enter ZHAW as the name of the institution, Scientific research as the use and How has the forest in lenk recovered as the research question and Regional as the geographic scope of the project"
+  },
+  {
+    "objectID": "index.html#step-8",
+    "href": "index.html#step-8",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 7: Choose No to the question on whether you’ve previously published work on this topic"
+  },
+  {
+    "objectID": "index.html#step-9",
+    "href": "index.html#step-9",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 8: On the question “Will you use Earth Engine for any of the following?” you can choose Scientific reserach as well as Forestry from the drop down"
+  },
+  {
+    "objectID": "index.html#step-10",
+    "href": "index.html#step-10",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 9: In the popup concerning API, choose Enable"
+  },
+  {
+    "objectID": "index.html#step-11",
+    "href": "index.html#step-11",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 10: You should now see that your project is registered for non commercial use"
+  },
+  {
+    "objectID": "index.html#step-12",
+    "href": "index.html#step-12",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 11: Now, you can visit https://code.earthengine.google.com"
+  },
+  {
+    "objectID": "index.html#step-13",
+    "href": "index.html#step-13",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 12: Here, choose the project you created in the previous steps"
+  },
+  {
+    "objectID": "index.html#step-14",
+    "href": "index.html#step-14",
+    "title": "Register for Google Earth Engine",
+    "section": "",
+    "text": "Figure 13: Once you see the the welcome popup, you’re done!"
+  }
+]
