@@ -1,0 +1,9 @@
+
+project: 
+  type: website
+  output-dir: _output
+
+
+format: 
+  html: 
+    column: page

@@ -1,0 +1,77 @@
+# Register for Google Earth Engine
+
+
+```{r}
+#| echo: false
+i <- 0
+
+cnt <- function() {
+  i <<- i+1
+  paste("Step",i)
+}
+
+```
+
+
+## `r cnt()`
+
+Go to <https://code.earthengine.google.com/register> and Login with your Google Account
+
+## `r cnt()`
+
+![Accept the User Agreement and confirm](en/step-01.png){#fig-step-01 .column-page}
+
+
+## `r cnt()`
+
+![Click on "Create new project"](en/step-02.png){#fig-step-02 .column-page}
+
+
+
+
+## `r cnt()`
+
+![Choose a project name (e.g. `adls-datalab`). Choosing an Organisation is not necessary.](en/step-03.png){#fig-step-03 .column-page}
+
+## `r cnt()`
+
+![Choose *See if you are eligible for non-commercial use*](en/step-04.png){#fig-step-04 .column-page}
+
+## `r cnt()`
+
+![Select *Public or private academic institution* as the organisation type](en/step-05.png){#fig-step-05 .column-page}
+
+## `r cnt()`
+
+![Enter *ZHAW* as the name of the institution, *Scientific research* as the use and *How has the forest in lenk recovered* as the research question and *Regional* as the geographic scope of the project](en/step-06.png){#fig-step-06 .column-page}
+
+## `r cnt()`
+
+![Choose *No* to the question on whether you've previously published work on this topic](en/step-07.png){#fig-step-07 .column-page}
+
+## `r cnt()`
+
+![On the question "Will you use Earth Engine for any of the following?" you can choose *Scientific reserach* as well as *Forestry* from the drop down](en/step-08.png){#fig-step-08 .column-page}
+
+## `r cnt()`
+
+![In the popup concerning API, choose *Enable*](en/step-09.png){#fig-step-09 .column-page}
+
+## `r cnt()`
+
+![You should now see that your project is registered for non commercial use](en/step-10.png){#fig-step-10 .column-page}
+
+## `r cnt()`
+
+![Now, you can visit <https://code.earthengine.google.com>](en/step-11.png){#fig-step-11 .column-page}
+
+## `r cnt()`
+
+![Here, choose the project you created in the previous steps](en/step-12.png){#fig-step-12 .column-page}
+
+## `r cnt()`
+
+![Once you see the the welcome popup, you're done!](en/step-13.png){#fig-step-13 .column-page}
+
+
+
