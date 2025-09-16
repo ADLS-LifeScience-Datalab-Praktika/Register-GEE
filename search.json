@@ -1,5 +1,110 @@
 [
   {
+    "objectID": "anleitung.html",
+    "href": "anleitung.html",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Gehen Sie zu https://code.earthengine.google.com/register und melden Sie sich mit Ihrem Google-Konto an\n\n\n\n\n\n\n\n\n\nAbbildung 1: Akzeptieren Sie die Nutzungsvereinbarung und bestätigen Sie\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 2: Klicken Sie auf “Projekt erstellen”\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 3: Wählen Sie einen Projektnamen (z.B. adls-datalab). Die Auswahl einer Organisation ist nicht erforderlich.\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 4: Wählen Sie Prüfen, ob Sie die Voraussetzung für die nicht kommerzielle Nutzung erfüllen\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 5: Wählen Sie Öffentliche oder private Bildungseinrichtung als Organisationstyp\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 6: Geben Sie ZHAW als Namen der Institution ein, Wissenschaftliche Forschung als Verwendungszweck und Wie hat sich der Waldbrand in der Lenk erholt? als Forschungsfrage\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 7: Wählen Sie Regional als geografischen Umfang des Projekts und Lenk als Region. Wählen Sie Nein auf die Frage, ob Sie bereits Arbeiten zu diesem Thema veröffentlicht haben\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 8: Auf die Frage “Fällt Ihre Arbeit mit der Earth Engine in eine der folgenden Kategorien” können Sie Wissenschaftliche Forschung sowie Forstwirtschaft aus dem Dropdown-Menü auswählen\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 9: Im Popup bezüglich der API wählen Sie Aktivieren\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 10: Sie sollten nun sehen, dass Ihr Projekt für die nicht-kommerzielle Nutzung registriert ist\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 11: Nun können Sie https://code.earthengine.google.com besuchen\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 12: Hier wählen Sie das Projekt aus, das Sie in den vorherigen Schritten erstellt haben\n\n\n\n\n\n\n\n\n\n\n\n\nAbbildung 13: Sobald Sie das Willkommens-Popup sehen, sind Sie fertig!"
+  },
+  {
+    "objectID": "anleitung.html#schritt-1",
+    "href": "anleitung.html#schritt-1",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Gehen Sie zu https://code.earthengine.google.com/register und melden Sie sich mit Ihrem Google-Konto an"
+  },
+  {
+    "objectID": "anleitung.html#schritt-2",
+    "href": "anleitung.html#schritt-2",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 1: Akzeptieren Sie die Nutzungsvereinbarung und bestätigen Sie"
+  },
+  {
+    "objectID": "anleitung.html#schritt-3",
+    "href": "anleitung.html#schritt-3",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 2: Klicken Sie auf “Projekt erstellen”"
+  },
+  {
+    "objectID": "anleitung.html#schritt-4",
+    "href": "anleitung.html#schritt-4",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 3: Wählen Sie einen Projektnamen (z.B. adls-datalab). Die Auswahl einer Organisation ist nicht erforderlich."
+  },
+  {
+    "objectID": "anleitung.html#schritt-5",
+    "href": "anleitung.html#schritt-5",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 4: Wählen Sie Prüfen, ob Sie die Voraussetzung für die nicht kommerzielle Nutzung erfüllen"
+  },
+  {
+    "objectID": "anleitung.html#schritt-6",
+    "href": "anleitung.html#schritt-6",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 5: Wählen Sie Öffentliche oder private Bildungseinrichtung als Organisationstyp"
+  },
+  {
+    "objectID": "anleitung.html#schritt-7",
+    "href": "anleitung.html#schritt-7",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 6: Geben Sie ZHAW als Namen der Institution ein, Wissenschaftliche Forschung als Verwendungszweck und Wie hat sich der Waldbrand in der Lenk erholt? als Forschungsfrage"
+  },
+  {
+    "objectID": "anleitung.html#schritt-8",
+    "href": "anleitung.html#schritt-8",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 7: Wählen Sie Regional als geografischen Umfang des Projekts und Lenk als Region. Wählen Sie Nein auf die Frage, ob Sie bereits Arbeiten zu diesem Thema veröffentlicht haben"
+  },
+  {
+    "objectID": "anleitung.html#schritt-9",
+    "href": "anleitung.html#schritt-9",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 8: Auf die Frage “Fällt Ihre Arbeit mit der Earth Engine in eine der folgenden Kategorien” können Sie Wissenschaftliche Forschung sowie Forstwirtschaft aus dem Dropdown-Menü auswählen"
+  },
+  {
+    "objectID": "anleitung.html#schritt-10",
+    "href": "anleitung.html#schritt-10",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 9: Im Popup bezüglich der API wählen Sie Aktivieren"
+  },
+  {
+    "objectID": "anleitung.html#schritt-11",
+    "href": "anleitung.html#schritt-11",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 10: Sie sollten nun sehen, dass Ihr Projekt für die nicht-kommerzielle Nutzung registriert ist"
+  },
+  {
+    "objectID": "anleitung.html#schritt-12",
+    "href": "anleitung.html#schritt-12",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 11: Nun können Sie https://code.earthengine.google.com besuchen"
+  },
+  {
+    "objectID": "anleitung.html#schritt-13",
+    "href": "anleitung.html#schritt-13",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 12: Hier wählen Sie das Projekt aus, das Sie in den vorherigen Schritten erstellt haben"
+  },
+  {
+    "objectID": "anleitung.html#schritt-14",
+    "href": "anleitung.html#schritt-14",
+    "title": "Google Earth Engine Registrieren",
+    "section": "",
+    "text": "Abbildung 13: Sobald Sie das Willkommens-Popup sehen, sind Sie fertig!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Register for Google Earth Engine",
