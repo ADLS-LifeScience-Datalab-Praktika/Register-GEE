@@ -3,6 +3,14 @@ project:
   type: website
   output-dir: _output
 
+website:
+  title: "Google Earth Engine"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Instructions (en)
+      - href: anleitung.qmd
+        text: Anleitung (de)
 
 format: 
   html: 

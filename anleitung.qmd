@@ -1,0 +1,81 @@
+---
+lang: de
+---
+
+# Google Earth Engine Registrieren
+
+
+```{r}
+#| echo: false
+i <- 0
+
+cnt <- function() {
+  i <<- i+1
+  paste("Schritt",i)
+}
+
+```
+
+
+## `r cnt()`
+
+Gehen Sie zu <https://code.earthengine.google.com/register> und melden Sie sich mit Ihrem Google-Konto an
+
+## `r cnt()`
+
+![Akzeptieren Sie die Nutzungsvereinbarung und bestätigen Sie](de/step-01.png){#fig-step-01 .column-page}
+
+
+## `r cnt()`
+
+![Klicken Sie auf "Projekt erstellen"](de/step-02.png){#fig-step-02 .column-page}
+
+
+
+
+## `r cnt()`
+
+![Wählen Sie einen Projektnamen (z.B. `adls-datalab`). Die Auswahl einer Organisation ist nicht erforderlich.](de/step-03.png){#fig-step-03 .column-page}
+
+## `r cnt()`
+
+![Wählen Sie *Prüfen, ob Sie die Voraussetzung für die nicht kommerzielle Nutzung erfüllen*](de/step-04.png){#fig-step-04 .column-page}
+
+## `r cnt()`
+
+![Wählen Sie *Öffentliche oder private Bildungseinrichtung* als Organisationstyp](de/step-05.png){#fig-step-05 .column-page}
+
+## `r cnt()`
+
+![Geben Sie *ZHAW* als Namen der Institution ein, *Wissenschaftliche Forschung* als Verwendungszweck und *Wie hat sich der Waldbrand in der Lenk erholt?* als Forschungsfrage](de/step-06.png){#fig-step-06 .column-page}
+
+## `r cnt()`
+
+![Wählen Sie *Regional* als geografischen Umfang des Projekts und *Lenk* als Region. Wählen Sie *Nein* auf die Frage, ob Sie bereits Arbeiten zu diesem Thema veröffentlicht haben](de/step-07.png){#fig-step-07 .column-page}
+
+## `r cnt()`
+
+![Auf die Frage "Fällt Ihre Arbeit mit der Earth Engine in eine der folgenden Kategorien" können Sie *Wissenschaftliche Forschung* sowie *Forstwirtschaft* aus dem Dropdown-Menü auswählen](de/step-08.png){#fig-step-08 .column-page}
+
+## `r cnt()`
+
+![Im Popup bezüglich der API wählen Sie *Aktivieren*](de/step-09.png){#fig-step-09 .column-page}
+
+## `r cnt()`
+
+![Sie sollten nun sehen, dass Ihr Projekt für die nicht-kommerzielle Nutzung registriert ist](de/step-10.png){#fig-step-10 .column-page}
+
+## `r cnt()`
+
+![Nun können Sie <https://code.earthengine.google.com> besuchen](de/step-11.png){#fig-step-11 .column-page}
+
+## `r cnt()`
+
+![Hier wählen Sie das Projekt aus, das Sie in den vorherigen Schritten erstellt haben](de/step-12.png){#fig-step-12 .column-page}
+
+## `r cnt()`
+
+![Sobald Sie das Willkommens-Popup sehen, sind Sie fertig!](de/step-13.png){#fig-step-13 .column-page}
+
+
+
